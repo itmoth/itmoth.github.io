@@ -1,5 +1,5 @@
 +++
-title = "YAOIIII"
+title = "meee"
 layout = "me"
 loves = [
   "yaoi.",
@@ -13,6 +13,7 @@ hates = [
   "cruise ships (capitalism)",
   "valentine's day (meaningless)",
   "microsoft windows",
+  "hamburgers, ketchup.",
 ]
 
 hobbies = [
